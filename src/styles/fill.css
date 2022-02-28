@@ -1,0 +1,36 @@
+.txt{
+    color: white;
+    text-align: center;
+}
+
+.input{
+    margin-top: 5%;
+}
+
+.put{
+    text-align: center;
+    font-size: medium;
+    margin-top: 15px;
+}
+
+.lbtn{
+    width: 100px;
+    padding: 7px 12px;
+    border-radius: 10px;
+    margin-top: 10px;
+    font-weight: 500;
+    font-size: medium;
+    color: white;
+    /* border-color: black; */
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    justify-content: center;
+}
+
+.btng{
+    align-items: flex-end;
+    justify-content: flex-end;
+}
